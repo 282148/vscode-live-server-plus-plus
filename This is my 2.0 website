@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html>
+
+<header>
+
+<h1>Hi this is my new website I built this on my own.</h1>
+
+<head>
+
+<link href="styles/style.css" rel="stylesheet" />
+
+</head>
+
+<p>
+
+this is a couple of links.
+
+</p>
+
+<body>
+
+This is my website I hope you like it.
+
+<body>
+
+<p><a href="https://www.google.com">Click for google</a>.</p>
+
+<p><a href="https://youtube.com">Click for youtube</a>.<p>
+
+<p> <a href="https://www.barnesandnoble.com">Click for barn's and nobel</a>.<p>
+
+<p><a href="https://endless.horse.com"> Click to see the never ending horse</a>.<p>
+
+<body>
+
+
+
+<h3> Here are some differant websites that I made that you can go to.<h3>
+
+<button> <p><a href="https://github.com/282148/origamihunter.git"> Click for my origami hunter website</a></button>
+
+
+</html>
+
